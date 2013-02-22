@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- license https://github.com/GoMADTech/Sonar-PSR-Profiles/blob/master/licence.txt BSD Licence -->
 <profile>
-    <name>PSR2</name>
+    <name>PSR2 Legacy</name>
     <language>php</language>
     <rules>
         <rule>
